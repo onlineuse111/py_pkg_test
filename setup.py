@@ -10,7 +10,6 @@ setup(
     url= 'URL to get it at.',
     download_url= 'Where to download it.',
     author_email= 'onlineuse11@yahoo.com`',
-    version= '0.1',
     install_requires= ['nose'],
     packages= ['ram_test'],
     scripts= ['bin/ram_test'],
